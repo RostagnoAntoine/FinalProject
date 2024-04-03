@@ -1,0 +1,7 @@
+.center {
+    margin: auto;
+    border-left: auto;
+    border-right: auto;
+    border: 3px solid #73AD21;
+    padding: 150px;
+  }
